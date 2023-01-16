@@ -1,0 +1,1 @@
+A api for adopt pets. Front-end made with React-TS and TailwindCSS and back-end made with NodeJS, Express and Mongoose.
